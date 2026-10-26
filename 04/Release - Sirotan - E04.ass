@@ -1,0 +1,31 @@
+[Script Info]
+Title: pn-SomeSubs - Sirotan
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,3,1,2,60,60,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 9,0:00:01.82,0:00:02.90,Default,,0,0,0,,Sirotan
+Dialogue: 9,0:00:06.88,0:00:09.68,Default,,0,0,0,,Burası tam saklambaç oynamalık yer.
+Dialogue: 9,0:00:09.99,0:00:12.36,Default,,0,0,0,,O zaman, ben ebe olurum.
+Dialogue: 9,0:00:13.50,0:00:14.88,Default,,0,0,0,,Saklanacağım.
+Dialogue: 9,0:00:15.44,0:00:18.00,Default,,0,0,0,,Nereye saklansam?
+Dialogue: 9,0:00:18.86,0:00:27.42,Default,,0,0,0,,Bir, iki, üç... hazır mısınız?
+Dialogue: 9,0:00:27.67,0:00:29.60,Default,,0,0,0,,Hazırız!
+Dialogue: 9,0:00:33.56,0:00:34.27,Default,,0,0,0,,Burada yok...
+Dialogue: 9,0:00:35.68,0:00:37.41,Default,,0,0,0,,Burada da yok...
+Dialogue: 9,0:00:38.40,0:00:39.02,Default,,0,0,0,,Ah!
+Dialogue: 9,0:00:39.85,0:00:41.20,Default,,0,0,0,,Buldum!
+Dialogue: 9,0:00:41.36,0:00:44.02,Default,,0,0,0,,Buldun beni.
+Dialogue: 9,0:00:46.96,0:00:50.78,Default,,0,0,0,,Kılık değiştirmede çok iyiyim.
+Dialogue: 9,0:00:50.79,0:00:54.03,Default,,0,0,0,,Beni asla bulamazsın.
