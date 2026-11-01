@@ -1,0 +1,34 @@
+[Script Info]
+Title: pn-SomeSubs - Sirotan
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,3,1,2,60,60,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.92,0:00:03.14,Default,,0,0,0,,Sirotan
+Dialogue: 0,0:00:07.76,0:00:09.99,Default,,0,0,0,,Nasıl sence? Havalı mı?
+Dialogue: 0,0:00:09.99,0:00:11.49,Default,,0,0,0,,Havalı!
+Dialogue: 0,0:00:11.58,0:00:13.99,Default,,0,0,0,,Ben yarasayım.
+Dialogue: 0,0:00:13.82,0:00:14.68,Default,,0,0,0,,Güzel.
+Dialogue: 0,0:00:14.50,0:00:15.89,Default,,0,0,0,,Sana yakışmış.
+Dialogue: 0,0:00:15.89,0:00:18.00,Default,,0,0,0,,Sirotan ne zaman gelecek?
+Dialogue: 0,0:00:18.31,0:00:20.30,Default,,0,0,0,,Nasıl bir kostüm giyecek acaba?
+Dialogue: 0,0:00:23.36,0:00:25.02,Default,,0,0,0,,O da neydi öyle?
+Dialogue: 0,0:00:32.51,0:00:34.29,Default,,0,0,0,,Ah, Sirotan.
+Dialogue: 0,0:00:35.35,0:00:38.02,Default,,0,0,0,,O donut kostümü mü?
+Dialogue: 0,0:00:38.64,0:00:42.82,Default,,0,0,0,,Donutu yiyecektim sonra sıkışıp kaldım.
+Dialogue: 0,0:00:43.00,0:00:45.80,Default,,0,0,0,,Bu kostüm sayılır mı ki?
+Dialogue: 0,0:00:46.12,0:00:47.84,Default,,0,0,0,,Güzel kokuyor değil mi?
+Dialogue: 0,0:00:48.03,0:00:50.03,Default,,0,0,0,,Çok lezzetli bir kostüm.
+Dialogue: 0,0:00:50.31,0:00:54.74,Default,,0,0,0,,Keşke ben de lezzetli bir kostüm giyseymişim.
+Dialogue: 0,0:00:55.51,0:00:57.76,Default,,0,0,0,,Birlikte yiyelim.
