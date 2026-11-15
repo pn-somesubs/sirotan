@@ -1,0 +1,36 @@
+[Script Info]
+Title: pn-SomeSubs - Sirotan
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,3.5,1,2,120,120,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\fs50\an7\fe162\b1\fad(400,400)\bord2\blur5\shad0\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)\c&HFFFF00&\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Mitos\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Balotelli\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 9,0:00:01.52,0:00:03.04,Default,,0,0,0,,Sirotan
+Dialogue: 9,0:00:05.99,0:00:07.76,Default,,0,0,0,,Sorun ne?
+Dialogue: 9,0:00:07.99,0:00:11.99,Default,,0,0,0,,Kestirmenin daha rahat bir yolu olmalı.
+Dialogue: 9,0:00:12.12,0:00:14.45,Default,,0,0,0,,Uyuma araştırması.\N
+Dialogue: 9,0:00:14.45,0:00:15.68,Default,,0,0,0,,Hadi yapalım.\N
+Dialogue: 9,0:00:15.68,0:00:18.40,Default,,0,0,0,,Birçok şeyi deneyelim.\N
+Dialogue: 9,0:00:18.59,0:00:20.76,Default,,0,0,0,,Normal şekilde uyusak olmaz mı?\N
+Dialogue: 9,0:00:21.10,0:00:22.92,Default,,0,0,0,,Bu nasıl?\N
+Dialogue: 9,0:00:23.29,0:00:25.72,Default,,0,0,0,,Bu da fena değil.
+Dialogue: 9,0:00:25.72,0:00:29.10,Default,,0,0,0,,Bu da güzel hissettiriyor.
+Dialogue: 9,0:00:29.68,0:00:32.22,Default,,0,0,0,,Yorucu gözüküyor.\N
+Dialogue: 9,0:00:36.57,0:00:38.22,Default,,0,0,0,,Bu harika.
+Dialogue: 9,0:00:38.55,0:00:39.98,Default,,0,0,0,,Mışıl mışıl
+Dialogue: 9,0:00:40.22,0:00:42.66,Default,,0,0,0,,Çok rahat hissettiriyor.
+Dialogue: 9,0:00:44.96,0:00:48.28,Default,,0,0,0,,Bu kestirme sayılır mı ki?
+Dialogue: 9,0:00:48.63,0:00:50.20,Default,,0,0,0,,Çoktan gece oldu.
+Dialogue: 9,0:00:50.20,0:00:53.64,Default,,0,0,0,,Ama öğlen uyumaya başladık
+Dialogue: 9,0:00:53.98,0:00:58.04,Default,,0,0,0,,Kestirmek ne güzel şey.
